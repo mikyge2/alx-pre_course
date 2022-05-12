@@ -1,2 +1,3 @@
-The command I used is: git merge origin/master master
-This merged the update I made in github interface with my local.
+The command I used is git pull origin master
+The alternative can be: git merge origin/master master
+This can merge the update made to the remote repository to local one.
