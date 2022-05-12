@@ -1,0 +1,2 @@
+The command I used is: git merge origin/master master
+This merged the update I made in github interface with my local.
